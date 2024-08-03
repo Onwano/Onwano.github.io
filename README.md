@@ -15,6 +15,9 @@
 
 **Title:** Pizza Sales Sql Queries
 
+
+**Project Description:** ad-hoc request to know total sum of sold pizza,..........
+
 **SQL codes:** [Pizza Sql Queries](https://github.com/Onwano/Onwano.github.io/blob/main/Pizza_Sales.Sql)
 
 **SQL Skills Used:** Where clause, .........
