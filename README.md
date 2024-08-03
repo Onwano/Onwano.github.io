@@ -10,3 +10,13 @@
  
 **Dashboard Overview:** 
   ![Superstore](Superstore.png)
+
+# Project 2
+
+**Title:** Pizza Sales Sql Queries
+
+**SQL codes:** [Pizza Sql Queries](https://github.com/Onwano/Onwano.github.io/blob/main/Pizza_Sales.Sql)
+
+**SQL Skills Used:** Where clause, .........
+
+**Tools Used:** SQL sever
